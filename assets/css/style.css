@@ -9,3 +9,36 @@
 .post_thumb {
 	max-width: 100%;
 }
+
+.well {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding: 5px 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+.well h5 {
+	margin-bottom: 0;
+}
+
+.pagination-links {
+	margin: 30px auto;
+}
+
+.pagination-links strong {
+	padding: 8px 13px;
+	margin: 5px;
+	background-color: #f4f4f4;
+	border: 1px solid #ccc;
+}
+
+a.pagination-link {
+	padding: 8px 13px;
+	margin: 5px;
+	background-color: #f4f4f4;
+	border: 1px solid #ccc;
+}
+
+.delete_category_form {
+	display: inline;
+}
